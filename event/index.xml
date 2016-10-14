@@ -6,8 +6,17 @@
     <description>Recent content in Events on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 May 2016 21:40:23 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 14 Oct 2016 21:40:23 +0100</lastBuildDate>
     <atom:link href="http://furrave.lynxpebbles.me/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Furrave 7</title>
+      <link>http://furrave.lynxpebbles.me/event/furrave7/</link>
+      <pubDate>Fri, 14 Oct 2016 21:40:23 +0100</pubDate>
+      
+      <guid>http://furrave.lynxpebbles.me/event/furrave7/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Furrave 6</title>

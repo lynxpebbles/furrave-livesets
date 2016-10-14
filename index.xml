@@ -6,8 +6,17 @@
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 May 2016 21:40:23 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 14 Oct 2016 21:40:23 +0100</lastBuildDate>
     <atom:link href="http://furrave.lynxpebbles.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Furrave 7</title>
+      <link>http://furrave.lynxpebbles.me/event/furrave7/</link>
+      <pubDate>Fri, 14 Oct 2016 21:40:23 +0100</pubDate>
+      
+      <guid>http://furrave.lynxpebbles.me/event/furrave7/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Furrave 6</title>
@@ -118,29 +127,20 @@
     </item>
     
     <item>
+      <title>DJ Kenai</title>
+      <link>http://furrave.lynxpebbles.me/dj/kenai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://furrave.lynxpebbles.me/dj/kenai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DJ Lucky-Tiger</title>
       <link>http://furrave.lynxpebbles.me/dj/lucky-tiger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://furrave.lynxpebbles.me/dj/lucky-tiger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DJ MaCiD</title>
-      <link>http://furrave.lynxpebbles.me/dj/macid/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://furrave.lynxpebbles.me/dj/macid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DJ Mikas</title>
-      <link>http://furrave.lynxpebbles.me/dj/mikas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://furrave.lynxpebbles.me/dj/mikas/</guid>
       <description></description>
     </item>
     
